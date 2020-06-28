@@ -1,0 +1,6 @@
+Psuedo Code - 
+(1)Blocker opens.
+(2) On scanner and robotic arm point, scanner scans every parcel and gets the pincode from Barcode using Picamera and OCR. Accordingly Robotic Arm moves 150/180/210 and pick up the parcel and put it on right track. This whole process takes around 3 min.
+(3)So Blocker remains closed for this duration. 
+(4) After blocker opens again and accept another parcel.
+(5) This queues continues for infinite time. 
